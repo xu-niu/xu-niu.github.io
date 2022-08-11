@@ -1,7 +1,0 @@
-Professional
-    Home                [index.html]
-    Research            [research.html]
-    Teaching            [teaching.html]
-
-Personal
-    My Family           [family.html]
