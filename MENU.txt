@@ -4,4 +4,6 @@ Professional
     Teaching            [teaching.html]
 
 Personal
+    Double Major        [education.html]
+    Dual Credentials    [credential.html]
     My Family           [family.html]
